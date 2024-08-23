@@ -1,1 +1,1 @@
-# Dlithe-Python
+# Dlithe
